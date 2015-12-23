@@ -1,0 +1,27 @@
+c:\users\thilini\documents\visual studio 2015\Projects\TANK\TANK\bin\Debug\TANK.exe.config
+C:\Users\Thilini\Documents\Visual Studio 2015\Projects\TANK\TANK\bin\Debug\TANK.exe
+C:\Users\Thilini\Documents\Visual Studio 2015\Projects\TANK\TANK\bin\Debug\TANK.pdb
+C:\Users\Thilini\Documents\Visual Studio 2015\Projects\TANK\TANK\obj\Debug\TANK.csprojResolveAssemblyReference.cache
+C:\Users\Thilini\Documents\Visual Studio 2015\Projects\TANK\TANK\obj\Debug\TANK.Form1.resources
+C:\Users\Thilini\Documents\Visual Studio 2015\Projects\TANK\TANK\obj\Debug\TANK.Properties.Resources.resources
+C:\Users\Thilini\Documents\Visual Studio 2015\Projects\TANK\TANK\obj\Debug\TANK.csproj.GenerateResource.Cache
+C:\Users\Thilini\Documents\Visual Studio 2015\Projects\TANK\TANK\obj\Debug\TANK.exe
+C:\Users\Thilini\Documents\Visual Studio 2015\Projects\TANK\TANK\obj\Debug\TANK.pdb
+C:\Users\Thilini\Desktop\TANK\TANK\bin\Debug\TANK.exe.config
+C:\Users\Thilini\Desktop\TANK\TANK\obj\Debug\TANK.exe
+C:\Users\Thilini\Desktop\TANK\TANK\obj\Debug\TANK.pdb
+C:\Users\Thilini\Desktop\TANK\TANK\bin\Debug\TANK.exe
+C:\Users\Thilini\Desktop\TANK\TANK\bin\Debug\TANK.pdb
+C:\Users\Thilini\Desktop\TANK\TANK\obj\Debug\TANK.csprojResolveAssemblyReference.cache
+C:\Users\Thilini\Desktop\TANK\TANK\obj\Debug\TANK.Form1.resources
+C:\Users\Thilini\Desktop\TANK\TANK\obj\Debug\TANK.Properties.Resources.resources
+C:\Users\Thilini\Desktop\TANK\TANK\obj\Debug\TANK.csproj.GenerateResource.Cache
+E:\semester 4\CS 2212 Programming Challenge II\pro cha 1st eval\TANK_fina\TANK\bin\Debug\TANK.exe.config
+E:\semester 4\CS 2212 Programming Challenge II\pro cha 1st eval\TANK_fina\TANK\obj\Debug\TANK.exe
+E:\semester 4\CS 2212 Programming Challenge II\pro cha 1st eval\TANK_fina\TANK\obj\Debug\TANK.pdb
+E:\semester 4\CS 2212 Programming Challenge II\pro cha 1st eval\TANK_fina\TANK\bin\Debug\TANK.exe
+E:\semester 4\CS 2212 Programming Challenge II\pro cha 1st eval\TANK_fina\TANK\bin\Debug\TANK.pdb
+E:\semester 4\CS 2212 Programming Challenge II\pro cha 1st eval\TANK_fina\TANK\obj\Debug\TANK.csprojResolveAssemblyReference.cache
+E:\semester 4\CS 2212 Programming Challenge II\pro cha 1st eval\TANK_fina\TANK\obj\Debug\TANK.Form1.resources
+E:\semester 4\CS 2212 Programming Challenge II\pro cha 1st eval\TANK_fina\TANK\obj\Debug\TANK.Properties.Resources.resources
+E:\semester 4\CS 2212 Programming Challenge II\pro cha 1st eval\TANK_fina\TANK\obj\Debug\TANK.csproj.GenerateResource.Cache
